@@ -1,0 +1,43 @@
+CrackSingle...
+Cracking password for alice.
+Cracked: 9999
+Elapsed: 69s
+CrackSingle: PASS
+CrackSpeedy...
+Cracking password for shamir.
+Cracking password for adleman.
+Cracking password for rivest.
+Cracking password for eve.
+Cracking password for bob.
+Cracking password for alice.
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 6 of 6
+Elapsed: 95s
+CrackSpeedy: PASS
+CrackMultiple...
+Cracking password for alice.
+Cracking password for bob.
+Cracking password for eve.
+Cracking password for rivest.
+Cracking password for shamir.
+Cracking password for adleman.
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 9999
+Cracked: 6 of 6
+Elapsed: 323s
+CrackMultiple: PASS
+CrackStealthy...
+Cracking password for alice.
+Cracked: 9999
+Elapsed: 47s
+Max CPU: 0.0%
+CrackStealthy: PASS

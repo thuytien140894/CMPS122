@@ -1,0 +1,28 @@
+################################################################
+#
+# CMPS122 Lab 3 Phase 1 
+#
+# PCAP = TCP/IP/Ethernet packet readable by libpcap and WireShark 
+#
+#################################################################
+
+The following files are included in this directory:
+
+passwd.plain       Plain text password "fluffy"
+passwd.crypt       crypt()'d version of password.plain 
+passwd.pcap        PCAP containing passwd.crypt
+
+key.plain          128-Bit AES Key 
+key                Obfuscated 128-Bit AES Key (key.plain is in there somewhere)
+key.zip            Password protected Zip of key, password = "fluffy"
+key.zip.pcap       PCAP containing key.zip
+
+iv.plain           Input Vector 
+iv.pcap            PCAP containing iv.plain
+
+message.plain      Plain text message
+message.cipher     message.plain encrypted with key.plain and iv.plain
+message.pcap       PCAP containining message.cipher
+
+passwords.6.plain  100 plain text 6 character passwords, all lower case alpha
+passwords.6.crypt  crypd()'d versions of passwords in passwords.6.plain

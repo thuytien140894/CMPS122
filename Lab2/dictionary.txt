@@ -1,0 +1,164 @@
+Blues
+Gunners
+BLUES
+Citizens
+CITIZENS
+Rams
+RAMS
+Red Devils
+RedDevils
+RED DEVILS
+REDDEVILS
+Reds
+REDS
+GUNNERS
+Sky Blues
+SkyBlues
+SKY BLUES
+SKYBLUES
+Pensioners
+PENSIONERS
+Pool
+POOL
+Potters
+POTTERS
+Badgers
+BADGERS
+Baggies
+BAGGIES
+Villans
+VILLANS
+Owls
+OWLS
+Black Cats
+BlackCats
+BLACK CATS
+BLACKCATS
+Whites
+WHITES
+Blades
+BLADES
+Boro
+BORO
+Peacocks
+PEACOCKS
+Clarets
+CLARETS
+Eagles
+EAGLES
+Fosse
+FOSSE
+Foxes
+FOXES
+Glaziers
+GLAZIERS
+Hornets
+HORNETS
+Addicks
+ADDICKS
+Irons
+IRONS
+Lilywhites
+LILYWHITES
+Lions
+LIONS
+Magpies
+MAGPIES
+Seals
+SEALS
+Seasiders
+SEASIDERS
+Shark Team
+SharkTeam
+SHARK TEAM
+SHARKTEAM
+Smoggies
+SMOGGIES
+Spireites
+SPIREITES
+Riversiders
+RIVERSIDERS
+Spurs
+SPURS
+Swans
+SWANS
+Tangerines
+TANGERINES
+Throstles
+THROSTLES
+Toffees
+TOFFEES
+Toffeemen
+TOFFEEMEN
+Toon
+TOON
+Tricky Trees
+TrickyTrees
+TRICKY TREES
+TRICKYTREES
+Wolves
+WOLVES
+Yids
+YIDS
+norwich city
+norwichcity
+middlesbrough
+sheffield wednesday
+sheffieldwednesday
+watford
+burnley
+sheffield united
+sheffieldunited
+birmingham city
+birminghamcity
+swansea city
+swanseacity
+LeedsUnited
+LEEDS UNITED
+LEEDSUNITED
+Rangers
+RANGERS
+Sunderland
+SUNDERLAND
+Crystal Palace
+CrystalPalace
+CRYSTAL PALACE
+CRYSTALPALACE
+Wolverhampton Wanderers
+WolverhamptonWanderers
+WOLVERHAMPTON WANDERERS
+WOLVERHAMPTONWANDERERS
+Nottingham Forest
+NottinghamForest
+NOTTINGHAM FOREST
+NOTTINGHAMFOREST
+Derby County
+DerbyCounty
+DERBY COUNTY
+DERBYCOUNTY
+Norwich City
+NorwichCity
+NORWICH CITY
+NORWICHCITY
+Middlesbrough
+MIDDLESBROUGH
+Sheffield Wednesday
+SheffieldWednesday
+SHEFFIELD WEDNESDAY
+SHEFFIELDWEDNESDAY
+Watford
+WATFORD
+Burnley
+BURNLEY
+Sheffield United
+SheffieldUnited
+SHEFFIELD UNITED
+SHEFFIELDUNITED
+Birmingham City
+BirminghamCity
+BIRMINGHAM CITY
+BIRMINGHAMCITY
+Swansea City
+SwanseaCity
+SWANSEA CITY
+SWANSEACITY

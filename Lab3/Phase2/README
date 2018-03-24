@@ -1,0 +1,12 @@
+First create a folder named "packets_phase3_2" to store the captured packets.
+Also create a folder named "keys" to store the zipped key files. 
+Then uncomment lines 347 and 367 in file "decryptor.c".
+
+To build the program:
+    make 
+
+First, run the listening server to receive passwords from the NSA:
+    ./password_agent
+    
+Then run this program:
+    ./decryptor
